@@ -24,6 +24,6 @@ I am continuously learning, working on pet projects, and exploring modern develo
 
 ## 🧰 Tech Stack
 
-**Languages:** Kotlin, Java, Python
-**Android:** Jetpack Compose, Hilt, Retrofit, Room, DataStore, ViewModel, LiveData
-**Architecture:** MVVM, Clean Architecture
+* **Languages:** Kotlin, Python
+* **Android:** Android SDK, Jetpack Compose, Hilt, Retrofit, Room, DataStore, ViewModel, LiveData, StateFlow, Coroutines
+* **Architecture:** MVVM, Clean Architecture
