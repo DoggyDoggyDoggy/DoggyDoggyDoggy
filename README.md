@@ -27,7 +27,3 @@ I am continuously learning, working on pet projects, and exploring modern develo
 * **Languages:** Kotlin, Python
 * **Android:** Android SDK, Jetpack Compose, Hilt, Retrofit, Room, DataStore, ViewModel, LiveData, StateFlow, Coroutines
 * **Architecture:** MVVM, Clean Architecture
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoggyDoggyDoggy&show_icons=true&theme=tokyonight&rank_icon=github)
-![Denys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoggyDoggyDoggy&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DoggyDoggyDoggy&theme=radical)
