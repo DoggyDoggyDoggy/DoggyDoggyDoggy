@@ -28,4 +28,4 @@ I am continuously learning, working on pet projects, and exploring modern develo
 * **Android:** Android SDK, Jetpack Compose, Hilt, Retrofit, Room, DataStore, ViewModel, LiveData, StateFlow, Coroutines
 * **Architecture:** MVVM, Clean Architecture
 
-![Denys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoggyDoggyDoggy/DoggyDoggyDoggy&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Denys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoggyDoggyDoggy&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
