@@ -12,7 +12,7 @@ I am continuously learning, working on pet projects, and exploring modern develo
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 * 📍 [NZGuide](https://github.com/DoggyDoggyDoggy/NZGuide) — New Zealand city travel guide (Retrofit, Paging 3, Coil).
 * 🏗️ [HabitTracker](https://github.com/DoggyDoggyDoggy/HabitTracker) — Habit tracker (Room, DataStore, Reorderable LazyColumn).
@@ -22,7 +22,7 @@ I am continuously learning, working on pet projects, and exploring modern develo
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * **Languages:** Kotlin, Python
 * **Android:** Android SDK, Jetpack Compose, Hilt, Retrofit, Room, DataStore, ViewModel, LiveData, StateFlow, Coroutines
