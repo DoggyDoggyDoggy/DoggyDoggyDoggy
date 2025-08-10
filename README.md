@@ -14,7 +14,7 @@ I am continuously learning, working on pet projects, and exploring modern develo
 
 ## Featured Projects
 
-* [NZGuide](https://github.com/DoggyDoggyDoggy/NZGuide) — New Zealand city travel guide (Retrofit, Paging 3, Coil).
+* [NZGuide](https://github.com/DoggyDoggyDoggy/New-Zealand-Guide) — New Zealand city travel guide (Hilt, Firebase, Coil).
 * [HabitTracker](https://github.com/DoggyDoggyDoggy/HabitTracker) — Habit tracker (Room, DataStore, Reorderable LazyColumn).
 * [Sofilono](https://play.google.com/store/apps/details?id=diomaxius.denys.sofilono) — My published Android app on Google Play.
 
