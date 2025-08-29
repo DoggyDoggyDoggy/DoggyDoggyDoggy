@@ -29,3 +29,4 @@ I am continuously learning, working on pet projects, and exploring modern develo
 * **Architecture:** MVVM, Clean Architecture
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoggyDoggyDoggy&show_icons=true&theme=radical&hide_rank=true)
+[![GitHub Stat](https://github-readme-stats.vercel.app/api?username=DoggyDoggyDoggy)](https://github.com/anuraghazra/github-readme-stats)
