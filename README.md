@@ -1,6 +1,6 @@
 # Hi, I’m Denys Pedan 👋
 
-**Junior Android Developer | Published on Google Play
+Junior Android Developer | Published on Google Play
 
 ---
 
