@@ -6,7 +6,7 @@ Junior Android Developer | Published on Google Play
 
 ## About Me
 
-I am a final-year university student passionate about Android development. I build applications using **Jetpack Compose**, **Hilt**, **Retrofit**, **MVVM**, **Clean Architecture**, **Room**, and **DataStore**.
+Work as an Android Developer on several GitHub pet projects. Right now I’m building the New Zealand Guide app with Jetpack Compose and Firebase, and my capstone is writing an OpenRewrite recipes for the Azure SDK. I specialize in Kotlin, MVVM and modern Android libraries.
 
 I am continuously learning, working on pet projects, and exploring modern development practices.
 
