@@ -1,6 +1,6 @@
 # Hi, I’m Denys Pedan 👋
 
-**Junior Android Developer | Published on Google Play | Final-Year University Student**
+**Junior Android Developer | Published on Google Play
 
 ---
 
@@ -24,6 +24,6 @@ I am continuously learning, working on pet projects, and exploring modern develo
 
 ## Tech Stack
 
-* **Languages:** Kotlin, Python
+* **Languages:** Kotlin, Java, Python
 * **Android:** Android SDK, Jetpack Compose, Hilt, Retrofit, Room, DataStore, ViewModel, LiveData, StateFlow, Coroutines
 * **Architecture:** MVVM, Clean Architecture
